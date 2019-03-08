@@ -1,0 +1,15 @@
+.comments_warpper{
+    position: absolute;
+    width: 50vw;
+    height: 80vh;
+    top:calc(50% - 40vh);
+    left:calc(50% - 25vw);
+    padding:20px 10px;
+    box-shadow: 0 4px 17px #b0a3c5;
+    border-radius:2px;
+}
+
+.divider_text{
+    font-size: 14px;
+    color:#7546c9;
+}

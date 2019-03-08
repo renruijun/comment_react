@@ -1,0 +1,27 @@
+.comment_input{
+
+}
+
+.comment_field{
+    margin-bottom:8px;
+
+}
+
+.comment_field_label{
+    text-align: right;
+    line-height: 20px;
+    padding:5px;
+    color:#7546c9;
+}
+
+.comment_field_input{
+
+}
+
+.comment_field_handle{
+    text-align: right
+}
+.comment_field_button{
+    width:80px;
+}
+
